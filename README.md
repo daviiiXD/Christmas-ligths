@@ -1,2 +1,2 @@
 # Christmas-ligths
-A simple christmas ligths simulator
+Simulador de luzes de natal
